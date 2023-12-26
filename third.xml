@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<organization xmlns:m="https://www.daraz.pk/management"  xmlns:w="https://www.star.com/workers">
+
+    <m:records>
+        <m:record>
+            <m:name>Abdullah</m:name>
+            <m:age>8</m:age>
+        </m:record>
+
+        <m:record>
+            <m:name>Haris</m:name>
+            <m:age>12</m:age>
+        </m:record>
+    </m:records>
+
+
+    <w:records>
+        <w:record>
+            <w:name>Adeel</w:name>
+            <w:age>4</w:age>
+        </w:record>
+
+
+        <w:record>
+            <w:name>Farzam</w:name>
+            <w:age>10</w:age>
+        </w:record>
+    </w:records>
+
+
+</organization>
