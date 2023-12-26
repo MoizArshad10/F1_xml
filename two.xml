@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<namelist>
+    <e:names xmlns:e="https://www.engro.com/employees">
+        <e:name>Tufail</e:name>
+        <e:name>Hadi</e:name>
+        <e:name>Usama</e:name>
+        <e:name>Haziq</e:name>
+    </e:names>
+
+    <s:names xmlns:s="https://www.google.com/staff">
+        <s:name>Smith</s:name>
+        <s:name>kevin</s:name>
+        <s:name>Peter</s:name>
+        <s:name>Root</s:name>
+    </s:names>
+</namelist>
