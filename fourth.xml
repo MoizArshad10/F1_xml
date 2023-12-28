@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<organization>
+    <department type="Engineering">
+        <name>ENGINEERING DEPART</name>
+        <location>STREET A</location>
+        <contact>252563</contact>
+    </department>
+
+    <department type="Medical">
+        <name>MEDICAL DEPART</name>
+        <location>STREET 15-B</location>
+        <contact>256325</contact>
+    </department>
+
+    <department type="Arts">
+        <name>ARTS DEPART</name>
+        <location>STREET Z</location>
+        <contact>563252</contact>
+    </department>
+</organization>
